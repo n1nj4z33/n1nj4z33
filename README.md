@@ -26,6 +26,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n1nj4z33)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![image](https://github.com/n1nj4z33/n1nj4z33/blob/main/code.gif)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n1nj4z33)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33)
