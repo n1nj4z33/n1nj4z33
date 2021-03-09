@@ -1,4 +1,4 @@
-![image](https://github.com/n1nj4z33/n1nj4z33/blob/master/dino.gif)
+![image](https://github.com/n1nj4z33/n1nj4z33/blob/main/dino.gif)
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
