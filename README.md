@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" height="30"/>
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" height="30"/>
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" height="30"/>
 </p>
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
