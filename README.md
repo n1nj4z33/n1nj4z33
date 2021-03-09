@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" />
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" height="30"/>
 </p>
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
@@ -25,9 +25,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n1nj4z33&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1nj4z33&hide_border=true&layout=compact" />
 </p>
 
