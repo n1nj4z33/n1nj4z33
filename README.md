@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/error.gif" />
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/eq.gif" />
 </p>
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
@@ -28,6 +28,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=n1nj4z33" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/alien.gif" />
 </p>
 
 <p align="center">
