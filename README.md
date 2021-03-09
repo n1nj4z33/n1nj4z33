@@ -41,9 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/doom.gif" />
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33" />
 </p>
+
