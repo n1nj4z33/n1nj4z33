@@ -26,6 +26,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n1nj4z33)
 
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33" alt="Visitors">                     
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33)
