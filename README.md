@@ -26,8 +26,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n1nj4z33)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33)
-
 <p align="center">
   <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/doom.gif" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33" />
 </p>
