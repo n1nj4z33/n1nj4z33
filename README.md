@@ -4,8 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1nj4z33&hide_border=true&layout=compact)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n1nj4z33)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=n1nj4z33)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n1nj4z33)
 
 ![GitHub metrics](https://metrics.lecoq.io/n1nj4z33)
