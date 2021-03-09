@@ -2,16 +2,22 @@
 
 ### 🛠 Tech Stack
 
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)
+![Telegraf](https://img.shields.io/badge/-Telegraf-05122A?style=flat&logo=telegraf)
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-05122A?style=flat&logo=influxdb)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-05122A?style=flat&logo=clickhouse)
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-05122A?style=flat&logo=jmeter)
+![Taurus](https://img.shields.io/badge/-Taurus-05122A?style=flat&logo=taurus)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=bash)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
