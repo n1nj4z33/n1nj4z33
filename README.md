@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/error.gif" />
+</p>
+
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
