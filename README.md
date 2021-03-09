@@ -1,5 +1,3 @@
-![image](https://github.com/n1nj4z33/n1nj4z33/blob/main/dino.gif)
-
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -24,9 +22,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n1nj4z33&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1nj4z33&hide_border=true&layout=compact)
 
-![image](https://github.com/n1nj4z33/n1nj4z33/blob/main/code.gif)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n1nj4z33)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n1nj4z33)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33)
+
+![image](https://i.gifer.com/ZWdz.gif)
