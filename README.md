@@ -28,4 +28,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=n1nj4z33)
 
-![image](https://i.gifer.com/ZWdz.gif)
+<p align="center">
+  <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/doom.gif" />
+</p>
