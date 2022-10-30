@@ -45,3 +45,6 @@
 </p>
 
 ![](https://raw.githubusercontent.com/n1nj4z33/n1nj4z33/18214a84f3b83048434b6a0a689cc70f993af68d/snake.svg)
+<p align="center">
+  <img src="https://www.codewars.com/users/n1nj4z33/badges/large" />
+</p>
