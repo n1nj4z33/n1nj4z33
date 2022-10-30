@@ -24,10 +24,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
-
-<p align="center">
-  <img src="https://www.codewars.com/users/n1nj4z33/badges/large" />
-</p>
+![Codewars](https://www.codewars.com/users/n1nj4z33/badges/micro)
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=n1nj4z33&show_icons=true&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1nj4z33&hide_border=true&layout=compact)
