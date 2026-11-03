@@ -26,11 +26,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Codewars](https://www.codewars.com/users/n1nj4z33/badges/micro)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1nj4z33" />
-</p>
-
 <p align="center">
   <img src="https://github.com/n1nj4z33/n1nj4z33/blob/main/alien.gif" />
 </p>
